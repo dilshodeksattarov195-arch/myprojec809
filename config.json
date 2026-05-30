@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenuncrypt",
+        "uuid": 6829578,
+        "checksum": "mxwfvl"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
